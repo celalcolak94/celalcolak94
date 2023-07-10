@@ -1,4 +1,3 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
 <h1 align="center">Hi 👋, I'm Celal Çolak</h1>
 <h3 align="center">A passionate Web developer from Türkiye</h3>
 

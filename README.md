@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-Ticaret**
 
-- 🌱 I’m currently learning **Asp.Net MVC**
+- 🌱 I’m currently learning **Asp.Net Core**
 
 - 📫 How to reach me **celalcolak94@gmail.com**
 

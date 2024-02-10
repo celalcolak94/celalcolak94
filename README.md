@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Celal Çolak</h1>
 <h3 align="center">Junior .Net Web Developer🌟.</h3>
 
-- 🔭 I’m currently working on **E-Ticaret**
+- 🔭 I’m currently working on **CarBook**
 
-- 🌱 I’m currently learning **Asp.Net Core**
+- 🌱 I’m currently learning **Onion Architecture - CQRS**
 
 - 📫 How to reach me **celalcolak94@gmail.com**
 

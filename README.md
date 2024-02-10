@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Celal Çolak</h1>
-<h3 align="center">Junior .Net Web Developer🌟.</h3>
+<h1 align="center">I'm Celal Çolak</h1>
+<h3 align="center">Software Developer🌟</h3>
 
 - 🔭 I’m currently working on **CarBook**
 

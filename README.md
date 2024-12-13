@@ -1,9 +1,9 @@
 <h1 align="center">I'm Celal Çolak</h1>
 <h3 align="center">Software Developer🌟</h3>
 
-- 🔭 I’m currently working on **CarBook**
+- 🔭 I’m currently working on **Mikroservis E-Ticaret**
 
-- 🌱 I’m currently learning **Mikroservis E-Ticaret**
+- 🌱 I’m currently learning **Mikroservis**
 
 - 📫 How to reach me **celalcolak94@gmail.com**
 

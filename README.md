@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CarBook**
 
-- 🌱 I’m currently learning **Onion Architecture - CQRS**
+- 🌱 I’m currently learning **Mikroservis E-Ticaret**
 
 - 📫 How to reach me **celalcolak94@gmail.com**
 
